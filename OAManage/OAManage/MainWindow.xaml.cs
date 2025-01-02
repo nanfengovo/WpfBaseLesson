@@ -20,5 +20,30 @@ namespace OAManage
         {
             InitializeComponent();
         }
+
+        
+        /// <summary>
+        /// 登录
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void Btn_Login(object sender, RoutedEventArgs e)
+        {
+            string account = this.txtAccount.Text;
+            string pwd = this.txtPwd.Text;
+
+            if(account == "longma" && pwd=="123" )
+            {
+                MessageBox.Show("登录成功");
+            }
+            else
+            {
+                MessageBox.Show("登录失败");
+                //清空文本框
+                this.txtAccount.Text = "";
+                this.txtPwd.Text = "";
+            }
+
+        }
     }
 }

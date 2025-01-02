@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Code\\Study\\WPF\\BaseForWPF\\OAManage\\",
+  "WorkspaceRootPath": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\baseforwpf\\oamanage\\oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\baseforwpf\\oamanage\\oamanage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,25 +34,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\BaseForWPF\\OAManage\\OAManage\\MainWindow.xaml",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml",
               "RelativeDocumentMoniker": "OAManage\\MainWindow.xaml",
-              "ToolTip": "E:\\Code\\Study\\WPF\\BaseForWPF\\OAManage\\OAManage\\MainWindow.xaml",
-              "RelativeToolTip": "OAManage\\MainWindow.xaml",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml*",
+              "RelativeToolTip": "OAManage\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-02T15:13:02.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\BaseForWPF\\OAManage\\OAManage\\MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "OAManage\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\BaseForWPF\\OAManage\\OAManage\\MainWindow.xaml.cs",
-              "RelativeToolTip": "OAManage\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "OAManage\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAawCsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T15:12:58.787Z",
               "EditorCaption": ""
