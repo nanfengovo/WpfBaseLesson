@@ -11,17 +11,21 @@
                 Height="40"
                 Width="100"
                 Background="Blue"
+                BorderBrush="Black"
                 Foreground="White"
                 FontSize="20"
                 HorizontalAlignment="Center"
                 VerticalAlignment="Center"
+                BorderThickness="5"
                 >
             <Button.Template>
+                <!--绑定-->
                 <ControlTemplate TargetType="Button">
-                    <Border Background="Red" CornerRadius="10" BorderBrush="Black" BorderThickness="5">
+                    <Border Background="{TemplateBinding Background}" CornerRadius="10" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
                         <!--ContentPresenter 呈现内容的控件 占位-->
-                        <ContentPresenter HorizontalAlignment="Center"
-                                          VerticalAlignment="Center"></ContentPresenter>
+                        <!--<ContentPresenter HorizontalAlignment="Center"
+                                          VerticalAlignment="Center"></ContentPresenter>-->
+                        <TextBlock Text="{TemplateBinding Content}" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBlock>
                     </Border>
                 </ControlTemplate>
             </Button.Template>

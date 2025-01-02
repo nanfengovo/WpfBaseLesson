@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|solutionrelative:wpfbaselesson\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\wpfbaselesson\\customstyletemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|solutionrelative:wpfbaselesson\\customstyletemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\wpfbaselesson\\stylewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|solutionrelative:wpfbaselesson\\stylewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nanfengqaq\\AppData\\Local\\Temp\\.vsdbgsrc\\d498bf5cbf016a5efdb400a121800957635e0d0b034e73e35cb6157ee74399c0\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\wpfbaselesson\\dictionary\\buttonstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|solutionrelative:wpfbaselesson\\dictionary\\buttonstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\wpfbaselesson\\customstyletemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|solutionrelative:wpfbaselesson\\customstyletemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\wpfbaselesson\\stylewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|solutionrelative:wpfbaselesson\\stylewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\wpfbaselesson\\dictionary\\buttonstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|solutionrelative:wpfbaselesson\\dictionary\\buttonstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA92DCB7-04D1-4295-B562-8CA7DC5DD1F3}|WpfBaseLesson\\WpfBaseLesson.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\wpfbaselesson\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -41,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,30 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResourcePart.cs",
-              "DocumentMoniker": "C:\\Users\\nanfengqaq\\AppData\\Local\\Temp\\.vsdbgsrc\\d498bf5cbf016a5efdb400a121800957635e0d0b034e73e35cb6157ee74399c0\\ResourcePart.cs",
-              "ToolTip": "C:\\Users\\nanfengqaq\\AppData\\Local\\Temp\\.vsdbgsrc\\d498bf5cbf016a5efdb400a121800957635e0d0b034e73e35cb6157ee74399c0\\ResourcePart.cs [\u53EA\u8BFB]",
-              "ViewState": "AgIAABoAAAAAAAAAAADgvycAAAAEAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:40:29.698Z",
-              "EditorCaption": " [\u53EA\u8BFB]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomStyleTemplate.xaml",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\CustomStyleTemplate.xaml",
-              "RelativeDocumentMoniker": "WpfBaseLesson\\CustomStyleTemplate.xaml",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\CustomStyleTemplate.xaml",
-              "RelativeToolTip": "WpfBaseLesson\\CustomStyleTemplate.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T13:34:19.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ButtonStyleDic.xaml",
               "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
               "RelativeDocumentMoniker": "WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
@@ -92,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StyleWindow.xaml",
               "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\StyleWindow.xaml",
               "RelativeDocumentMoniker": "WpfBaseLesson\\StyleWindow.xaml",
@@ -124,6 +101,29 @@
               "RelativeToolTip": "WpfBaseLesson\\App.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-02T04:46:00.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\nanfengqaq\\AppData\\Local\\Temp\\.vsdbgsrc\\d498bf5cbf016a5efdb400a121800957635e0d0b034e73e35cb6157ee74399c0\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\nanfengqaq\\AppData\\Local\\Temp\\.vsdbgsrc\\d498bf5cbf016a5efdb400a121800957635e0d0b034e73e35cb6157ee74399c0\\ResourcePart.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvycAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:40:29.698Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomStyleTemplate.xaml",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\CustomStyleTemplate.xaml",
+              "RelativeDocumentMoniker": "WpfBaseLesson\\CustomStyleTemplate.xaml",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\CustomStyleTemplate.xaml",
+              "RelativeToolTip": "WpfBaseLesson\\CustomStyleTemplate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T13:34:19.362Z",
               "EditorCaption": ""
             },
             {
