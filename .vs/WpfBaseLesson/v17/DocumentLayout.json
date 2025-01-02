@@ -45,21 +45,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "WpfBaseLesson\\AssemblyInfo.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\AssemblyInfo.cs",
-              "RelativeToolTip": "WpfBaseLesson\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:08:45.784Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -71,30 +58,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ButtonStyleDic.xaml",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
-              "RelativeDocumentMoniker": "WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
-              "RelativeToolTip": "WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T13:07:42.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StyleWindow.xaml",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\StyleWindow.xaml",
-              "RelativeDocumentMoniker": "WpfBaseLesson\\StyleWindow.xaml",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\StyleWindow.xaml",
-              "RelativeToolTip": "WpfBaseLesson\\StyleWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T12:43:25.668Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -141,6 +104,43 @@
               "RelativeToolTip": "WpfBaseLesson\\CustomStyleTemplate.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-02T13:34:19.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StyleWindow.xaml",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\StyleWindow.xaml",
+              "RelativeDocumentMoniker": "WpfBaseLesson\\StyleWindow.xaml",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\StyleWindow.xaml",
+              "RelativeToolTip": "WpfBaseLesson\\StyleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T12:43:25.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfBaseLesson\\AssemblyInfo.cs",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfBaseLesson\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:08:45.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ButtonStyleDic.xaml",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
+              "RelativeDocumentMoniker": "WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
+              "RelativeToolTip": "WpfBaseLesson\\Dictionary\\ButtonStyleDic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T13:07:42.225Z",
               "EditorCaption": ""
             },
             {

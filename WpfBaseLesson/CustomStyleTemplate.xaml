@@ -21,12 +21,27 @@
             <Button.Template>
                 <!--绑定-->
                 <ControlTemplate TargetType="Button">
-                    <Border Background="{TemplateBinding Background}" CornerRadius="10" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                    <Border x:Name="border"  Background="{TemplateBinding Background}" CornerRadius="10" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
                         <!--ContentPresenter 呈现内容的控件 占位-->
                         <!--<ContentPresenter HorizontalAlignment="Center"
                                           VerticalAlignment="Center"></ContentPresenter>-->
-                        <TextBlock Text="{TemplateBinding Content}" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBlock>
+                        <TextBlock x:Name="txt" Text="{TemplateBinding Content}" VerticalAlignment="{TemplateBinding VerticalAlignment}" HorizontalAlignment="{TemplateBinding HorizontalAlignment}" ></TextBlock>
                     </Border>
+                    <!--触发器-->
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter TargetName="border" Property="Background" Value="red"></Setter>
+                            <Setter TargetName="txt"
+                                    Property="Text"
+                                    Value="ABC"></Setter>
+                        </Trigger>
+                        <Trigger Property="IsPressed"
+                                 Value="true">
+                            <Setter TargetName="border"
+                                    Property="Background"
+                                    Value="green"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
                 </ControlTemplate>
             </Button.Template>
         </Button>
