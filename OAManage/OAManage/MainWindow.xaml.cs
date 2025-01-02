@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using OAManage.Models;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,18 +17,20 @@ namespace OAManage
     /// </summary>
     public partial class MainWindow : Window
     {
+        /// <summary>
+        /// 账号Model
+        /// </summary>
+        private AccountModel accountModel;
         public MainWindow()
         {
             InitializeComponent();
             //设置数据上下文
-            this.DataContext = this;
+            accountModel = new AccountModel();
+            this.DataContext = accountModel ;
+            
         }
 
-        //账号
-        public string Account { get; set; }
-
-        //密码
-        public string Pwd { get; set; }
+       
 
         /// <summary>
         /// 登录
@@ -38,17 +41,16 @@ namespace OAManage
         {
           
 
-            if(Account == "longma" && Pwd=="123" )
+            if(accountModel.Account == "longma" && accountModel.Pwd=="123" )
             {
                 MessageBox.Show("登录成功");
             }
             else
             {
-                //清空文本框
-                this.Account = "";
-                this.Pwd = "";
                 MessageBox.Show("登录失败");
-                
+                //清空文本框
+                accountModel.Account = "";
+                accountModel.Pwd= "";
             }
 
         }
