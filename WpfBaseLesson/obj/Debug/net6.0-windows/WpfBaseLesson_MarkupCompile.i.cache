@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\App.xaml
-41634602465
+51256622687
 
-8-762299728
+9527712279
 194975967418
-Dictionary\ButtonStyleDic.xaml;MainWindow.xaml;StyleWindow.xaml;Window1.xaml;
+CustomStyleTemplate.xaml;Dictionary\ButtonStyleDic.xaml;MainWindow.xaml;StyleWindow.xaml;Window1.xaml;
 
 True
 

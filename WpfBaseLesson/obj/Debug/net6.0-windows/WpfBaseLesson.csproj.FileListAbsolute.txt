@@ -25,3 +25,5 @@ E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\Window1.b
 E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\WpfBaseLesson.sourcelink.json
 E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\Dictionary\ButtonStyleDic.baml
 E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\App.baml
+E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\CustomStyleTemplate.g.cs
+E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\CustomStyleTemplate.baml
