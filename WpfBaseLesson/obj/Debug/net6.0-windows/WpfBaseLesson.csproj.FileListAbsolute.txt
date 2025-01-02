@@ -18,3 +18,10 @@ E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\refint\Wp
 E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\WpfBaseLesson.pdb
 E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\WpfBaseLesson.genruntimeconfig.cache
 E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\ref\WpfBaseLesson.dll
+E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\StyleWindow.g.cs
+E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\Window1.g.cs
+E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\StyleWindow.baml
+E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\Window1.baml
+E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\WpfBaseLesson.sourcelink.json
+E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\Dictionary\ButtonStyleDic.baml
+E:\Code\Study\WPF\WpfBaseLesson\WpfBaseLesson\obj\Debug\net6.0-windows\App.baml

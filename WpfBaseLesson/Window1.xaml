@@ -7,6 +7,52 @@
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
     <Grid>
+        <!--Uniformgrid-->
+        <!--<UniformGrid Rows="3">
+            <Button Height="40" Width="80">按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+        </UniformGrid>-->
+        
+        <!--stackpanel-->
+        <!--<StackPanel Height="400" Width="600" Background="AliceBlue" Orientation="Horizontal">
+            <Button Width="120">按钮1</Button>
+            <Button Width="150">按钮1</Button>
+            <Button Width="150">按钮1</Button>
+            <Button Width="120">按钮1</Button>
+            <Button Width="120">按钮1</Button>
+            <Button Width="120">按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+            <Button>按钮1</Button>
+        </StackPanel>-->
+        
+        <!--border-->
+        <Border Background="AliceBlue" Width="300" Height="200">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Button Width="60"
+                        Height="20" Grid.Row="0" >登录</Button>
+                <Button Width="60"
+                        Height="20"
+                        Grid.Row="1">注册</Button>
+            </Grid>
+           
+        </Border>
         
     </Grid>
 </Window>
