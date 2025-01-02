@@ -19,9 +19,16 @@ namespace OAManage
         public MainWindow()
         {
             InitializeComponent();
+            //设置数据上下文
+            this.DataContext = this;
         }
 
-        
+        //账号
+        public string Account { get; set; }
+
+        //密码
+        public string Pwd { get; set; }
+
         /// <summary>
         /// 登录
         /// </summary>
@@ -29,19 +36,19 @@ namespace OAManage
         /// <param name="e"></param>
         private void Btn_Login(object sender, RoutedEventArgs e)
         {
-            string account = this.txtAccount.Text;
-            string pwd = this.txtPwd.Text;
+          
 
-            if(account == "longma" && pwd=="123" )
+            if(Account == "longma" && Pwd=="123" )
             {
                 MessageBox.Show("登录成功");
             }
             else
             {
-                MessageBox.Show("登录失败");
                 //清空文本框
-                this.txtAccount.Text = "";
-                this.txtPwd.Text = "";
+                this.Account = "";
+                this.Pwd = "";
+                MessageBox.Show("登录失败");
+                
             }
 
         }
