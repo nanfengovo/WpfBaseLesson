@@ -1,0 +1,9 @@
+﻿<Application x:Class="WpfBaseLesson.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfBaseLesson"
+             StartupUri="MainWindow.xaml"> <!--配置主窗体-->
+    <Application.Resources>
+         <!--配置 启动项 资源-->
+    </Application.Resources>
+</Application>
