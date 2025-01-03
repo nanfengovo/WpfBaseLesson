@@ -32,27 +32,6 @@ namespace OAManage
 
        
 
-        /// <summary>
-        /// 登录
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void Btn_Login(object sender, RoutedEventArgs e)
-        {
-          
-
-            if(accountModel.Account == "longma" && accountModel.Pwd=="123" )
-            {
-                MessageBox.Show("登录成功");
-            }
-            else
-            {
-                MessageBox.Show("登录失败");
-                //清空文本框
-                accountModel.Account = "";
-                accountModel.Pwd= "";
-            }
-
-        }
+      
     }
 }

@@ -1,9 +1,12 @@
-﻿using System;
+﻿using OAManage.Command;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Input;
 
 namespace OAManage.Models
 {
@@ -61,5 +64,41 @@ namespace OAManage.Models
                 }
             }
         }
+
+        /// <summary>
+        /// 登录
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void Login()
+        {
+            if (Account == "longma" && Pwd == "123")
+            {
+                MessageBox.Show("登录成功");
+            }
+            else
+            {
+                MessageBox.Show("登录失败");
+                //清空文本框
+                Account = "";
+                Pwd = "";
+            }
+        }
+
+        /// <summary>
+        /// 命令属性
+        /// </summary>
+        public ICommand Command 
+        {
+            get
+            {
+                return new DoCommand(Login);
+            }
+        }
+
+
+
+
+
     }
 }
