@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\viewmodels\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\viewmodels\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\command\\docommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\command\\docommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\command\\docommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\command\\docommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,20 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoCommand.cs",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Command\\DoCommand.cs",
-              "RelativeDocumentMoniker": "OAManage\\Command\\DoCommand.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Command\\DoCommand.cs*",
-              "RelativeToolTip": "OAManage\\Command\\DoCommand.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T04:38:03.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "OAManage\\AssemblyInfo.cs",
@@ -72,38 +63,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AccountModel.cs",
               "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Models\\AccountModel.cs",
               "RelativeDocumentMoniker": "OAManage\\Models\\AccountModel.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Models\\AccountModel.cs*",
-              "RelativeToolTip": "OAManage\\Models\\AccountModel.cs*",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAywFkAAAAWAAAAAAAAAA==",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Models\\AccountModel.cs",
+              "RelativeToolTip": "OAManage\\Models\\AccountModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T16:22:11.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml",
               "RelativeDocumentMoniker": "OAManage\\MainWindow.xaml",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml*",
-              "RelativeToolTip": "OAManage\\MainWindow.xaml*",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml",
+              "RelativeToolTip": "OAManage\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-02T15:13:02.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\ViewModels\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "OAManage\\ViewModels\\AccountViewModels.cs",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\ViewModels\\AccountViewModels.cs*",
+              "RelativeToolTip": "OAManage\\ViewModels\\AccountViewModels.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:48:44.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoCommand.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Command\\DoCommand.cs",
+              "RelativeDocumentMoniker": "OAManage\\Command\\DoCommand.cs",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Command\\DoCommand.cs",
+              "RelativeToolTip": "OAManage\\Command\\DoCommand.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T04:38:03.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "OAManage\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "OAManage\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAtwCIAAAAGAAAAAAAAAA==",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OAManage\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T15:12:58.787Z",
               "EditorCaption": ""

@@ -44,7 +44,7 @@
 
                     <!--第一行的第二列-->
                     <TextBox Grid.Column="1"
-                             Margin="0,4" Text="{Binding Account}"></TextBox>
+                             Margin="0,4" Text="{Binding AccountModel.Account}"></TextBox>
 
                     <!--第二行的第一列-->
                     <TextBlock Text="密码"
@@ -54,12 +54,13 @@
                     <!--第二行的第二列-->
                     <TextBox Grid.Row="1"
                              Grid.Column="2"
-                             Margin="0,4" Text="{Binding Pwd}"></TextBox>
-
+                             Margin="0,4" Text="{Binding  AccountModel.Pwd}"></TextBox>
+                    <!--绑定命令-->
                     <Button Grid.Row="2"
                             Grid.ColumnSpan="2"
                             FontSize="20"
-                            Background="LightBlue" Command="{Binding Command}">登录</Button>
+                            Background="LightBlue" Command="{Binding Command}"
+                            >登录</Button>
 
                 </Grid>
             </Border>

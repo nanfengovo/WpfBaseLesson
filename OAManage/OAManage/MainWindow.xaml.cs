@@ -1,4 +1,5 @@
 ﻿using OAManage.Models;
+using OAManage.ViewModels;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -20,18 +21,15 @@ namespace OAManage
         /// <summary>
         /// 账号Model
         /// </summary>
-        private AccountModel accountModel;
+        private AccountViewModels accountViewModel;
         public MainWindow()
         {
             InitializeComponent();
             //设置数据上下文
-            accountModel = new AccountModel();
-            this.DataContext = accountModel ;
+            accountViewModel = new AccountViewModels();
+            this.DataContext = accountViewModel;
             
         }
 
-       
-
-      
     }
 }
