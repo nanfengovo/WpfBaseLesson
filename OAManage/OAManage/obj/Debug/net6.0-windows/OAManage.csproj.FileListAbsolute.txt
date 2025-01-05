@@ -39,3 +39,4 @@ E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\refin
 E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\OAManage.pdb
 E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\OAManage.genruntimeconfig.cache
 E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\ref\OAManage.dll
+E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs

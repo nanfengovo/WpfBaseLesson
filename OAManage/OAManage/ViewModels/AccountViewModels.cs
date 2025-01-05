@@ -27,7 +27,7 @@ namespace OAManage.ViewModels
             get { 
             return _AccountModel.Account;
             } 
-            set {
+            set {   
             _AccountModel.Account = value;
                 if (PropertyChanged != null)
                 {
