@@ -53,7 +53,7 @@ namespace WpfBaseLesson {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfBaseLesson;component/stylewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfBaseLesson;V1.0.0.0;component/stylewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\StyleWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

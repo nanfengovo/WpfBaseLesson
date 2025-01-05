@@ -68,8 +68,7 @@
               "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\Window1.xaml",
               "RelativeToolTip": "WpfBaseLesson\\Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T10:56:50.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T10:56:50.172Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\StyleWindow.xaml",
               "RelativeToolTip": "WpfBaseLesson\\StyleWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T12:43:25.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T12:43:25.668Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "WpfBaseLesson\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:08:45.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T13:08:45.784Z"
             },
             {
               "$type": "Document",
@@ -152,8 +149,7 @@
               "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\WpfBaseLesson\\MainWindow.xaml",
               "RelativeToolTip": "WpfBaseLesson\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T04:45:50.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T04:45:50.615Z"
             },
             {
               "$type": "Document",
@@ -165,8 +161,7 @@
               "RelativeToolTip": "WpfBaseLesson\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T04:45:50.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T04:45:50.153Z"
             }
           ]
         }

@@ -17,32 +17,62 @@ namespace OAManage.ViewModels
     {
 
 
-        private AccountModel _AccountModel;
+        private AccountModel _AccountModel = new AccountModel();
 
         public event PropertyChangedEventHandler? PropertyChanged;
 
+        //账号
+
+        public string  Account { 
+            get { 
+            return _AccountModel.Account;
+            } 
+            set {
+            _AccountModel.Account = value;
+                if (PropertyChanged != null)
+                {
+                    PropertyChanged(this, new PropertyChangedEventArgs("Account"));
+                }
+            }
+        }
+
+
+        //密码
+
+        public string  Pwd { get 
+            {
+                return _AccountModel.Pwd;
+            }
+            set { 
+                _AccountModel.Pwd = value;
+                if (PropertyChanged != null)
+                {
+                    PropertyChanged(this, new PropertyChangedEventArgs("Pwd"));
+                }
+            }
+        }
 
 
         /// <summary>
         /// 用户属性(开放给View绑定)
         /// </summary>
-        public AccountModel AccountModel
-        {
-            get {
-                if(_AccountModel == null)
-                {
-                    _AccountModel = new AccountModel();
-                }
-                return _AccountModel; }
-            set {
-                _AccountModel = value;
-                if(PropertyChanged!=null)
-                {
-                    PropertyChanged(this, new PropertyChangedEventArgs("AccountModel"));
-                }
-            }
+        //public AccountModel AccountModel
+        //{
+        //    get {
+        //        if(_AccountModel == null)
+        //        {
+        //            _AccountModel = new AccountModel();
+        //        }
+        //        return _AccountModel; }
+        //    set {
+        //        _AccountModel = value;
+        //        if(PropertyChanged!=null)
+        //        {
+        //            PropertyChanged(this, new PropertyChangedEventArgs("AccountModel"));
+        //        }
+        //    }
 
-        }
+        //}
 
         /// <summary>
         /// 登录
@@ -51,7 +81,7 @@ namespace OAManage.ViewModels
         /// <param name="e"></param>
         private void Login()
         {
-            if (AccountModel.Account == "longma" && AccountModel.Pwd == "123")
+            if (Account == "longma" && Pwd == "123")
             {
                 MessageBox.Show("登录成功");
             }
@@ -59,9 +89,9 @@ namespace OAManage.ViewModels
             {
                 MessageBox.Show("登录失败");
                 //清空文本框
-                AccountModel = new AccountModel();
-                //AccountModel.Account = "";
-                //AccountModel.Pwd = "";
+                //AccountModel = new AccountModel();
+                Account = "";
+                Pwd = "";
             }
         }
 
