@@ -40,3 +40,5 @@ E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\OAMan
 E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\OAManage.genruntimeconfig.cache
 E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\ref\OAManage.dll
 E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\Dictionary\CustButtonStyleDic.baml
+E:\Code\Study\WPF\WpfBaseLesson\OAManage\OAManage\obj\Debug\net6.0-windows\App.baml

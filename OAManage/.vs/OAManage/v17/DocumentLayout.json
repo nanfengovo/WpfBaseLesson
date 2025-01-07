@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\base\\passwordboxextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\base\\passwordboxextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\dictionary\\custbuttonstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\dictionary\\custbuttonstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\cuestomcomtrol\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\cuestomcomtrol\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\command\\docommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\command\\docommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\base\\passwordboxextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\base\\passwordboxextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\viewmodels\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\command\\docommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\command\\docommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|e:\\code\\study\\wpf\\wpfbaselesson\\oamanage\\oamanage\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD7684AA-C568-4C9A-86C0-123E2421C44E}|OAManage\\OAManage.csproj|solutionrelative:oamanage\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,15 +66,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PasswordBoxExtend.cs",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Base\\PasswordBoxExtend.cs",
-              "RelativeDocumentMoniker": "OAManage\\Base\\PasswordBoxExtend.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Base\\PasswordBoxExtend.cs*",
-              "RelativeToolTip": "OAManage\\Base\\PasswordBoxExtend.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDkAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DoCommand.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Command\\DoCommand.cs",
+              "RelativeDocumentMoniker": "OAManage\\Command\\DoCommand.cs",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Command\\DoCommand.cs",
+              "RelativeToolTip": "OAManage\\Command\\DoCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T08:15:02.448Z",
+              "WhenOpened": "2025-01-03T04:38:03.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\CuestomComtrol\\CustomButton.cs",
+              "RelativeDocumentMoniker": "OAManage\\CuestomComtrol\\CustomButton.cs",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\CuestomComtrol\\CustomButton.cs",
+              "RelativeToolTip": "OAManage\\CuestomComtrol\\CustomButton.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:27:59.914Z",
               "EditorCaption": ""
             },
             {
@@ -79,46 +104,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountViewModels.cs",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\ViewModels\\AccountViewModels.cs",
-              "RelativeDocumentMoniker": "OAManage\\ViewModels\\AccountViewModels.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\ViewModels\\AccountViewModels.cs",
-              "RelativeToolTip": "OAManage\\ViewModels\\AccountViewModels.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowEsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PasswordBoxExtend.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Base\\PasswordBoxExtend.cs",
+              "RelativeDocumentMoniker": "OAManage\\Base\\PasswordBoxExtend.cs",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Base\\PasswordBoxExtend.cs",
+              "RelativeToolTip": "OAManage\\Base\\PasswordBoxExtend.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwD0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:48:44.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "OAManage\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml.cs",
-              "RelativeToolTip": "OAManage\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T15:12:58.787Z",
+              "WhenOpened": "2025-01-07T08:15:02.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DoCommand.cs",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Command\\DoCommand.cs",
-              "RelativeDocumentMoniker": "OAManage\\Command\\DoCommand.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Command\\DoCommand.cs",
-              "RelativeToolTip": "OAManage\\Command\\DoCommand.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAIA7wDEAAAAIAAAAAAAAAA==",
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Models\\AccountModel.cs",
+              "RelativeDocumentMoniker": "OAManage\\Models\\AccountModel.cs",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Models\\AccountModel.cs",
+              "RelativeToolTip": "OAManage\\Models\\AccountModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwD8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T04:38:03.634Z",
+              "WhenOpened": "2025-01-02T16:22:11.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "CustButtonStyleDic.xaml",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Dictionary\\CustButtonStyleDic.xaml",
+              "RelativeDocumentMoniker": "OAManage\\Dictionary\\CustButtonStyleDic.xaml",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Dictionary\\CustButtonStyleDic.xaml*",
+              "RelativeToolTip": "OAManage\\Dictionary\\CustButtonStyleDic.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T11:37:00.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "OAManage\\AssemblyInfo.cs",
@@ -131,15 +155,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountModel.cs",
-              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Models\\AccountModel.cs",
-              "RelativeDocumentMoniker": "OAManage\\Models\\AccountModel.cs",
-              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\Models\\AccountModel.cs",
-              "RelativeToolTip": "OAManage\\Models\\AccountModel.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OAManage\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OAManage\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T16:22:11.048Z"
+              "WhenOpened": "2025-01-02T15:12:58.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\ViewModels\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "OAManage\\ViewModels\\AccountViewModels.cs",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\ViewModels\\AccountViewModels.cs",
+              "RelativeToolTip": "OAManage\\ViewModels\\AccountViewModels.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:48:44.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\App.xaml",
+              "RelativeDocumentMoniker": "OAManage\\App.xaml",
+              "ToolTip": "E:\\Code\\Study\\WPF\\WpfBaseLesson\\OAManage\\OAManage\\App.xaml",
+              "RelativeToolTip": "OAManage\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T12:00:29.73Z",
+              "EditorCaption": ""
             }
           ]
         }

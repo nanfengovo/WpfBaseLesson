@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:OAManage"
         xmlns:pwdns="clr-namespace:OAManage.Base"
+        xmlns:custBtnNs ="clr-namespace:OAManage.CuestomComtrol"
         mc:Ignorable="d"
         Title="在线办公管理系统" Height="450" Width="800">
     <Grid>
@@ -63,11 +64,17 @@
                              pwdns:PasswordBoxExtend.MyPwd="{Binding Pwd,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" 
                                  ></PasswordBox>
                     <!--绑定命令-->
-                    <Button Grid.Row="2"
+                    <custBtnNs:CustomButton Grid.Row="2"
                             Grid.ColumnSpan="2"
+                            BtnRadius="10"
+                            Width="100"
+                            Height="30"
+                            OverBackground="Red"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
                             FontSize="20"
                             Background="LightBlue"
-                            Command="{Binding Command}">登录</Button>
+                            Command="{Binding Command}">登录</custBtnNs:CustomButton>
                 </Grid>
             </Border>
             <!-- 第二行的第二列 -->
