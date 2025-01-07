@@ -59,20 +59,18 @@
                     <PasswordBox Grid.Row="1"
                              Grid.Column="2"
                              Margin="0,4"
-                             pwdns:PasswordBoxExtend.MyPwd="{Binding Pwd,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" 
                              pwdns:PasswordBoxExtend.IsBind="True"
+                             pwdns:PasswordBoxExtend.MyPwd="{Binding Pwd,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" 
                                  ></PasswordBox>
                     <!--绑定命令-->
                     <Button Grid.Row="2"
                             Grid.ColumnSpan="2"
                             FontSize="20"
-                            Background="LightBlue" Command="{Binding Command}"
-                            >登录</Button>
-
+                            Background="LightBlue"
+                            Command="{Binding Command}">登录</Button>
                 </Grid>
             </Border>
             <!-- 第二行的第二列 -->
-           
         </Grid>
     </Grid>
 </Window>

@@ -28,7 +28,6 @@ namespace OAManage
             //设置数据上下文
             accountViewModel = new AccountViewModels();
             this.DataContext = accountViewModel;
-            
         }
 
     }
